@@ -1,0 +1,13 @@
+# Ignore specific files
+password.txt
+index.html
+
+# Ignore directories
+node_modules/
+
+# Ignore file types
+*.log
+*.sql
+
+# Exception: 
+!important.log
