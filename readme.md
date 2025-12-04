@@ -9,3 +9,5 @@ The best ways are:
 Thank you!
 I am Sam
 
+## Summary
+Its a nice repo
